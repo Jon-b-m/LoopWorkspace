@@ -4,8 +4,8 @@
 	branch = xdrip_current
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
-	branch = dev
+	url = https://github.com/jon-b-m/LoopKit.git
+	branch = mydev
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
