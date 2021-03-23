@@ -41,3 +41,5 @@
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
 	url = https://github.com/Jon-b-m/xdrip-client-swift
+	branch = mydev
+
