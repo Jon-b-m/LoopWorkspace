@@ -37,7 +37,8 @@
 	url = https://github.com/ivalkou/NightscoutAPIClient.git
 [submodule "bubble-client-swift"]
 	path = bubble-client-swift
-	url = https://github.com/bubbledevteam/bubble-client-swift
+	url = https://github.com/jon-b-m/bubble-client-swift
+	branch = mydev
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
 	url = https://github.com/Jon-b-m/xdrip-client-swift
