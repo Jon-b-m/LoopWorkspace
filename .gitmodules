@@ -24,7 +24,7 @@
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/Jon-b-m/rileylink_ios.git
-	branch = Carthage-pin
+	branch = orange
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
