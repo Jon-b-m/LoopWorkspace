@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url=https://github.com/Jon-b-m/Loop.git
-	branch = Xdrip_current
+	branch = xdrip_current
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/jon-b-m/LoopKit.git
@@ -41,6 +41,6 @@
 	branch = mydev
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
-	url = https://github.com/Jon-b-m/xdrip-client-swift
-	branch = mydev
+	url = https://github.com/jon-b-m/xdrip-client-swift
+	branch = dev
 
